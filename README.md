@@ -7,5 +7,5 @@
 I'm a {backend, and infrastructure analyst} 
 
 ### Skills
-- Java, Docker, AWS, Heroku, Linux, Spring boot, Nodejs, WSO2-ApiManager, Vscode, IaaS — Infrastructure as a Service, PaaS — Platform as a Service, SaaS — Software as a Service, PostgreSQl, MySQL, MongoDB
+- Java, Docker, AWS, Heroku, Linux, Spring, Spring boot, Nodejs, WSO2-ApiManager, Vscode, IaaS — Infrastructure as a Service, PaaS — Platform as a Service, SaaS — Software as a Service, PostgreSQl, MySQL, MongoDB
 
