@@ -18,6 +18,7 @@
 [![Amazon_AWS Badge](https://img.shields.io/badge/Vagrant-2966CE?style=flat-square&logo=vagrant&logoColor=white)]()
 [![Amazon_AWS Badge](https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black)]()
 [![Html Badge](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)]()
+[![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)]()
 
 ### About me
 I'm a {backend, and infrastructure analyst} 
