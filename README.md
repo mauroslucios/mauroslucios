@@ -2,7 +2,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mauroslucios)](https://github.com/mauroslucios)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-lúcio-pereira/)](https://www.linkedin.com/in/mauro-lúcio-pereira/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mauroslucios)](https://twitter.com/mauroslucios)
-[![Inatgram Badge](https://img.shields.io/badge/-Intagram-1ca0f1?style=flat-square&labelColor=900&logo=instagram&logoColor=white&link=https://www.instagram.com/luciospsilva/)](https://www.instagram.com/luciospsilva/){:target="_blank"}
+[![Inatgram Badge](https://img.shields.io/badge/-Intagram-1ca0f1?style=flat-square&labelColor=900&logo=instagram&logoColor=white&link=https://www.instagram.com/luciospsilva/)](https://www.instagram.com/luciospsilva/)
 
 ### About me
 I'm a {backend, and infrastructure analyst} 
