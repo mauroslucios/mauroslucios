@@ -11,7 +11,5 @@ I'm a {backend, and infrastructure analyst}
 ### Skills
 - Java, Docker, AWS, Heroku, Linux, Spring, Spring boot, Nodejs, WSO2-ApiManager, Vscode, PostgreSQl, MySQL, MongoDB, IaaS — Infrastructure as a Service, PaaS — Platform as a Service, SaaS — Software as a Service
 
-(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)&link=https://www.instagram.com/luciospsilva/)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=F93154&logo=instagram&logoColor=white)](https://www.instagram.com/luciospsilva/)
 
