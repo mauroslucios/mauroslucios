@@ -17,6 +17,7 @@
 [![Amazon_AWS Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
 [![Amazon_AWS Badge](https://img.shields.io/badge/Vagrant-2966CE?style=flat-square&logo=vagrant&logoColor=white)]()
 [![Amazon_AWS Badge](https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black)]()
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFUC1CjoLr7PTFVMRAbLkiw)
   
 ### About me
 I'm a {backend, and infrastructure analyst} 
