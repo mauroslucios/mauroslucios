@@ -10,6 +10,7 @@
 [![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)]()
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)]()
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)]()
+[![Apache Badge](https://img.shields.io/badge/Apache-CA2136?style=flat-square&logo=apache&logoColor=white)]()
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)]()
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)]()
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-squaree&logo=mongodb&logoColor=white)]()
@@ -19,6 +20,7 @@
 [![Amazon_AWS Badge](https://img.shields.io/badge/Vagrant-2966CE?style=flat-square&logo=vagrant&logoColor=white)]()
 [![Amazon_AWS Badge](https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black)]()
 [![Html Badge](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)]()
+
 
 
 ### About me
