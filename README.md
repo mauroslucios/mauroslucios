@@ -14,11 +14,15 @@
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-squaree&logo=mongodb&logoColor=white)]()
 [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)]()
 [![Amazon_AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)]()
-
+[![Amazon_AWS Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
+[![Amazon_AWS Badge](https://img.shields.io/badge/Vagrant-2966CE?style=flat-square&logo=vagrant&logoColor=white)]()
+[![Amazon_AWS Badge](https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black)]()
+  
 ### About me
 I'm a {backend, and infrastructure analyst} 
 
 ### Skills
 - Java, Docker, AWS, Heroku, Linux, Spring, Spring boot, Nodejs, WSO2-ApiManager, Vscode, PostgreSQl, MySQL, MongoDB, IaaS — Infrastructure as a Service, PaaS — Platform as a Service, SaaS — Software as a Service
 
+  
   
