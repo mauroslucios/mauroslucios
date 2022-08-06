@@ -7,6 +7,13 @@
 [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)]()
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)]()
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)]()
+[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)]()
+[![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)]()
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)]()
+[![MariaDB Badge](https://img.shields.io/badge/MariaDB-01529E?style=flat-square&logo=mariadb&logoColor=white)]()
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-squaree&logo=mongodb&logoColor=white)]()
+[![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)]()
+[![Amazon_AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)]()
 
 ### About me
 I'm a {backend, and infrastructure analyst} 
@@ -14,3 +21,4 @@ I'm a {backend, and infrastructure analyst}
 ### Skills
 - Java, Docker, AWS, Heroku, Linux, Spring, Spring boot, Nodejs, WSO2-ApiManager, Vscode, PostgreSQl, MySQL, MongoDB, IaaS — Infrastructure as a Service, PaaS — Platform as a Service, SaaS — Software as a Service
 
+  
