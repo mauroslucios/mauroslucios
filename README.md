@@ -5,13 +5,12 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&labelColor=CC0000&logo=instagram&logoColor=white)](https://www.instagram.com/luciospsilva/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&labelColor=01579B&logo=facebook&logoColor=white)](https://www.facebook.com/mauroslucios)
 [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)]()
+[![Nodejs Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 
 ### About me
 I'm a {backend, and infrastructure analyst} 
 
 ### Skills
 - Java, Docker, AWS, Heroku, Linux, Spring, Spring boot, Nodejs, WSO2-ApiManager, Vscode, PostgreSQl, MySQL, MongoDB, IaaS — Infrastructure as a Service, PaaS — Platform as a Service, SaaS — Software as a Service
-
-[![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?&style=flat-square&labelColor=01579B&logo=facebook&logoColor=white)](https://www.facebook.com/mauroslucios)
 
 
