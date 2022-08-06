@@ -21,7 +21,7 @@
 [![Vagrant Badge](https://img.shields.io/badge/Vagrant-2966CE?style=flat-square&logo=vagrant&logoColor=white)]()
 [![Linux Badge](https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black)]()
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white)]()
-[![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)]()
+[![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=flat-square&logo=centos&logoColor=F0F0F0)]()
 
 
 
