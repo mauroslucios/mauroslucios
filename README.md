@@ -7,6 +7,7 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFUC1CjoLr7PTFVMRAbLkiw)
 [![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)]()
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)]()
+[![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)]()
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)]()
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)]()
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)]()
@@ -18,7 +19,7 @@
 [![Amazon_AWS Badge](https://img.shields.io/badge/Vagrant-2966CE?style=flat-square&logo=vagrant&logoColor=white)]()
 [![Amazon_AWS Badge](https://img.shields.io/badge/Linux-E34F26?style=flat-square&logo=linux&logoColor=black)]()
 [![Html Badge](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)]()
-[![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)]()
+
 
 ### About me
 I'm a {backend, and infrastructure analyst} 
