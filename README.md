@@ -30,6 +30,9 @@
 ### About me
 I'm a {backend, and infrastructure analyst} 
 
+### Job Title
+- Systems Development Analyst
+
 ### Skills
 - Java, Docker, AWS, Heroku, Linux, Spring, Spring boot, Nodejs, WSO2-ApiManager, Vscode, PostgreSQl, MySQL, MongoDB, IaaS — Infrastructure as a Service, PaaS — Platform as a Service, SaaS — Software as a Service
 
