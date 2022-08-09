@@ -28,7 +28,7 @@
 
 
 ### About me
-I'm a {backend, and infrastructure analyst} 
+- I'm a {backend, and infrastructure analyst} 
 
 ### Job Title
 - Systems Development Analyst
