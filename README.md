@@ -7,13 +7,13 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFUC1CjoLr7PTFVMRAbLkiw)
 
 ### About me
-- I'm a {backend, and infrastructure analyst} 
+- I'm a SRE - Site Reliability Engineering, backend, and infrastructure analyst 
 
 ### Job Title
-- Systems Development Analyst
+- Site Reliability Engineering
 
 ### Skills
-- Java, Docker, AWS, Heroku, Linux, Spring, Spring boot, Nodejs, WSO2-ApiManager, Vscode, PostgreSQl, MySQL, MongoDB, IaaS — Infrastructure as a Service, PaaS — Platform as a Service, SaaS — Software as a Service
+- Java, Docker, AWS, Heroku, Linux, Spring, Spring boot, Nodejs, WSO2-ApiManager, Vscode, PostgreSQl, MySQL, MongoDB, IaaS — Infrastructure as a Service, PaaS — Platform as a Service, SaaS — Software as a Service, iaC Infrastructure as a Code, terraform, ansible
 
   
   
