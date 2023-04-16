@@ -9,7 +9,7 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFUC1CjoLr7PTFVMRAbLkiw)
 
 ### About me
-- I'm a SRE - Site Reliability Engineering, backend analyst, and infrastructure analyst in itaú unibanco
+- I'm a SRE - Site Reliability Engineering AWS Certfied in itaú unibanco 
 
 ### Job Title
 - Site Reliability Engineering
