@@ -15,7 +15,7 @@
 - Site Reliability Engineering
 
 ### Skills
-- Java, Docker, AWS Certified, Heroku, Linux, Spring, Spring boot, Nodejs, WSO2-ApiManager, Vscode, PostgreSQl, MySQL, MongoDB, IaaS — Infrastructure as a Service, PaaS — Platform as a Service, SaaS — Software as a Service, iaC Infrastructure as a Code, terraform, ansible
+- Java, Docker, AWS Certified,Linux, Spring, Spring boot, Nodejs, MySQL,  IaaS, PaaS, SaaS and IaC
 
   
   
