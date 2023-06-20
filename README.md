@@ -3,7 +3,6 @@
 [![AMAZON AWS Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&link=https://www.credly.com/badges/a591e410-23b1-4138-8ef6-82ad1a7f5f31/public_url)](https://www.credly.com/badges/a591e410-23b1-4138-8ef6-82ad1a7f5f31/public_url)
 [![Docker Badge](https://img.shields.io/badge/Docker-6495ED?style=flat-square&logo=docker&logoColor=white&link=https://www.certificacaolinux.com.br/certificado/2532603305/50230905/)](https://www.certificacaolinux.com.br/certificado/2532603305/50230905/)
 [![Devops Badge](https://img.shields.io/badge/Devops-A0522D?style=flat-square&logo=devops&logoColor=white&link=https://www.credential.net/8d8248bc-98af-4f0a-a04c-02c295da2eb2#gs.14j8ca)](https://www.credential.net/8d8248bc-98af-4f0a-a04c-02c295da2eb2#gs.14j8ca)
-[![nodejs Badge](https://img.shields.io/badge/nodejs-A0522D?style=flat-square&logo=nodejs&logoColor=white&link=)]
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mauroslucios)](https://github.com/mauroslucios)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=01579B&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-lúcio-pereira/)](https://www.linkedin.com/in/mauro-lúcio-pereira/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=01579B&logo=twitter&logoColor=white&link=https://twitter.com/mauroslucios)](https://twitter.com/mauroslucios)
