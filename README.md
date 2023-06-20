@@ -2,7 +2,7 @@
 
 [![AMAZON AWS Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&link=https://www.credly.com/badges/a591e410-23b1-4138-8ef6-82ad1a7f5f31/public_url)](https://www.credly.com/badges/a591e410-23b1-4138-8ef6-82ad1a7f5f31/public_url)
 
-[![Docker](https://img.shields.io/badge/docker-FF9900?style=flat-square&logo=docker&logoColor=white)
+[![Docker](https://img.shields.io/badge/docker-FF9900?style=flat-square&logo=docker&logoColor=white)]
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mauroslucios)](https://github.com/mauroslucios)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=01579B&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-lúcio-pereira/)](https://www.linkedin.com/in/mauro-lúcio-pereira/)
