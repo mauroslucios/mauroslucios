@@ -17,7 +17,7 @@
 - IT Engineering Analyst
 
 ### Skills
-- Java, Docker, AWS Certified,Linux, Spring, Spring boot, Nodejs, MySQL,  IaaS, PaaS, SaaS and IaC
+- Java,Docker, AWS Certified,Linux,Spring, Spring boot, Nodejs,MySQL, Kafka, Terraform,IaaS, PaaS,SaaS and IaC
 
   
   
