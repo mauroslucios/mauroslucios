@@ -19,7 +19,7 @@
 - Git, github Actions, AWS, Terraform, DMPS - FICO Decision Management Platform Streaming
 
 ### Skills
-- Java,Docker, Python, Javascript, DMPS AWS Certified,Linux,Spring, Spring boot, Nodejs,MySQL, Kafka, Terraform,IaaS, PaaS,SaaS and IaC
+- Java, Docker, Python, Javascript, DMPS AWS Certified, Linux, Spring, Spring boot, Nodejs, MySQL, Kafka, Terraform,IaaS, PaaS, SaaS and IaC
     
 ### Contact
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5524988291621)
