@@ -4,11 +4,6 @@
 [![Docker Badge](https://img.shields.io/badge/Docker-6495ED?style=flat-square&logo=docker&logoColor=white&link=https://www.certificacaolinux.com.br/certificado/2532603305/50230905/)](https://www.certificacaolinux.com.br/certificado/2532603305/50230905/)
 [![Devops Badge](https://img.shields.io/badge/Devops-A0522D?style=flat-square&logo=devops&logoColor=white&link=https://www.credential.net/8d8248bc-98af-4f0a-a04c-02c295da2eb2#gs.14j8ca)](https://www.credential.net/8d8248bc-98af-4f0a-a04c-02c295da2eb2#gs.14j8ca)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mauroslucios)](https://github.com/mauroslucios)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=01579B&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-lúcio-pereira/)](https://www.linkedin.com/in/mauro-lúcio-pereira/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=01579B&logo=twitter&logoColor=white&link=https://twitter.com/mauroslucios)](https://twitter.com/mauroslucios)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&labelColor=CC0000&logo=instagram&logoColor=white)](https://www.instagram.com/luciospsilva/)
-[![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&labelColor=01579B&logo=facebook&logoColor=white)](https://www.facebook.com/mauroslucios)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFUC1CjoLr7PTFVMRAbLkiw)
 
 ### About me
 - I'm a IT Engineering Analyst - AWS Certfied in itaú unibanco 
@@ -19,6 +14,14 @@
 
 ### Skills
 - Java,Docker, Python, Javascript, DMPS AWS Certified,Linux,Spring, Spring boot, Nodejs,MySQL, Kafka, Terraform,IaaS, PaaS,SaaS and IaC
+  
+  
+### Contact
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+24+S988291621)
 
-  
-  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=01579B&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-lúcio-pereira/)](https://www.linkedin.com/in/mauro-lúcio-pereira/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=01579B&logo=twitter&logoColor=white&link=https://twitter.com/mauroslucios)](https://twitter.com/mauroslucios)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&labelColor=CC0000&logo=instagram&logoColor=white)](https://www.instagram.com/luciospsilva/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&labelColor=01579B&logo=facebook&logoColor=white)](https://www.facebook.com/mauroslucios)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFUC1CjoLr7PTFVMRAbLkiw)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:maurosluciosestudos@gmail.com)
