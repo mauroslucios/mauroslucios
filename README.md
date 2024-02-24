@@ -22,10 +22,10 @@
 - Java,Docker, Python, Javascript, DMPS AWS Certified,Linux,Spring, Spring boot, Nodejs,MySQL, Kafka, Terraform,IaaS, PaaS,SaaS and IaC
     
 ### Contact
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+24+S988291621)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/55+24+S988291621)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=01579B&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-lúcio-pereira/)](https://www.linkedin.com/in/mauro-lúcio-pereira/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=01579B&logo=twitter&logoColor=white&link=https://twitter.com/mauroslucios)](https://twitter.com/mauroslucios)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&labelColor=CC0000&logo=instagram&logoColor=white)](https://www.instagram.com/luciospsilva/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&labelColor=01579B&logo=facebook&logoColor=white)](https://www.facebook.com/mauroslucios)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFUC1CjoLr7PTFVMRAbLkiw)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:maurosluciosestudos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red)](mailto:maurosluciosestudos@gmail.com)
