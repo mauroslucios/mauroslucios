@@ -18,7 +18,7 @@
 - Git, github Actions, AWS, Terraform, DMPS - FICO Decision Management Platform Streaming
 
 ### Skills
-- Java,Docker, AWS Certified,Linux,Spring, Spring boot, Nodejs,MySQL, Kafka, Terraform,IaaS, PaaS,SaaS and IaC
+- Java,Docker, Python, Javascript, DMPS AWS Certified,Linux,Spring, Spring boot, Nodejs,MySQL, Kafka, Terraform,IaaS, PaaS,SaaS and IaC
 
   
   
