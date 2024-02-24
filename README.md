@@ -1,10 +1,16 @@
 # Hi, I'm Mauro Lúcio! :grinning: 
+## Hard Skills
 ### Technologies
 [![AMAZON AWS Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&link=https://www.credly.com/badges/a591e410-23b1-4138-8ef6-82ad1a7f5f31/public_url)](https://www.credly.com/badges/a591e410-23b1-4138-8ef6-82ad1a7f5f31/public_url)
 [![Docker Badge](https://img.shields.io/badge/Docker-6495ED?style=flat-square&logo=docker&logoColor=white&link=https://www.certificacaolinux.com.br/certificado/2532603305/50230905/)](https://www.certificacaolinux.com.br/certificado/2532603305/50230905/)
 [![Devops Badge](https://img.shields.io/badge/Devops-A0522D?style=flat-square&logo=devops&logoColor=white&link=https://www.credential.net/8d8248bc-98af-4f0a-a04c-02c295da2eb2#gs.14j8ca)](https://www.credential.net/8d8248bc-98af-4f0a-a04c-02c295da2eb2#gs.14j8ca)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mauroslucios)](https://github.com/mauroslucios)
 
+###Programming languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)>
 ### About me
 - I'm a IT Engineering Analyst - AWS Certfied in itaú unibanco 
 
