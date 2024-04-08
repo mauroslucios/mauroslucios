@@ -17,8 +17,8 @@
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=flat-square&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
 [![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=CentOS&logoColor=white)](https://www.centos.org/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/index.pt.html)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 <!--![Bootstrap Badge](https://img.shields.io/badge/-boostrap-0D1117?style=flat-square&logo=bootstrap&labelColor=0D1117)-->
 
 
