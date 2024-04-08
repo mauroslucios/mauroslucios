@@ -18,7 +18,7 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![YAML Badge](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515)
 ### About me
-- I'm a IT Engineering Analyst - AWS Certfied in itaú unibanco 
+- I'm a IT Engineering Analyst - AWS Certified in itaú unibanco 
 
 ### Job Title
 - IT Engineering Analyst
