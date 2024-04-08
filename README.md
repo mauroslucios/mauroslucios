@@ -17,17 +17,16 @@
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=flat-square&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
 [![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=CentOS&logoColor=white)](https://www.centos.org/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/index.pt.html)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![Bootstrap Badge](https://img.shields.io/badge/-boostrap-0D1117?style=flat-square&logo=bootstrap&labelColor=0D1117)](https://getbootstrap.com/)
-
-
 
 ### Programming languages
 ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![YAML Badge](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![Bootstrap Badge](https://img.shields.io/badge/-boostrap-0D1117?style=flat-square&logo=bootstrap&labelColor=0D1117)](https://getbootstrap.com/)
+
 ### About me
 - I'm a IT Engineering Analyst - at itaú unibanco
 - AWS Certified 
