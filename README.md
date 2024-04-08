@@ -4,11 +4,11 @@
 [![Docker Badge](https://img.shields.io/badge/Docker-6495ED?style=flat-square&logo=docker&logoColor=white&link=https://www.certificacaolinux.com.br/certificado/2532603305/50230905/)](https://www.certificacaolinux.com.br/certificado/2532603305/50230905/)
 [![Devops Badge](https://img.shields.io/badge/Devops-A0522D?style=flat-square&logo=devops&logoColor=white&link=https://www.credential.net/8d8248bc-98af-4f0a-a04c-02c295da2eb2#gs.14j8ca)](https://www.credential.net/8d8248bc-98af-4f0a-a04c-02c295da2eb2#gs.14j8ca)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mauroslucios)](https://github.com/mauroslucios)
-<!--![Bootstrap Badge](https://img.shields.io/badge/-boostrap-0D1117?style=flat-square&logo=bootstrap&labelColor=0D1117)-->
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?c&logo=Jupyter)](https://jupyter.org/try)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 [![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/about-us)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=Databricks&logoColor=white)
+<!--![Bootstrap Badge](https://img.shields.io/badge/-boostrap-0D1117?style=flat-square&logo=bootstrap&labelColor=0D1117)-->
 
 
 
