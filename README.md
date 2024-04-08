@@ -8,8 +8,8 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?c&logo=Jupyter)](https://jupyter.org/try)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 [![Anaconda](https://a11ybadges.com/badge?style=flat-square&logo=anaconda)](https://www.anaconda.com/about-us)
-[![Anaconda](https://a11ybadges.com/badge?style=flat-square&logo=anaconda)](https://www.anaconda.com/about-us)
-[Anaconda](https://a11ybadges.com/badge?logo=anaconda)
+
+
 
 ### Programming languages
 ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
