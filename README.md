@@ -28,6 +28,7 @@
 [![Bootstrap Badge](https://img.shields.io/badge/-boostrap-0D1117?style=flat-square&logo=bootstrap&labelColor=0D1117)](https://getbootstrap.com/)
 [![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)](https://www.json.org/json-en.html)
 [![Node version](https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 ### About me
 - I'm a IT Engineering Analyst - at itaú unibanco
 - AWS Certified 
