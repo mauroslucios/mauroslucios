@@ -8,6 +8,10 @@
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 [![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/about-us)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=Databricks&logoColor=white)](https://community.cloud.databricks.com/login.html)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badgeflat-square&logo=mysql&logoColor=white)](https://www.mysqltutorial.org/mysql-basics/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 <!--![Bootstrap Badge](https://img.shields.io/badge/-boostrap-0D1117?style=flat-square&logo=bootstrap&labelColor=0D1117)-->
 
 
