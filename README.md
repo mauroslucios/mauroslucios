@@ -6,8 +6,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mauroslucios)](https://github.com/mauroslucios)
 ![Bootstrap Badge](https://img.shields.io/badge/-boostrap-0D1117?style=flat-square&logo=bootstrap&labelColor=0D1117)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?c&logo=Jupyter)](https://jupyter.org/try)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.anaconda.com/about-us)
-[![Anaconda](https://a11ybadges.com/badge?style=flat-square&logo=anaconda)](https://www.anaconda.com/about-us](https://colab.research.google.com/))
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/))
+[![Anaconda](https://a11ybadges.com/badge?style=flat-square&logo=anaconda)](https://www.anaconda.com/about-us)
 
 ### Programming languages
 ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
