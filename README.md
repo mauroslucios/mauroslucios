@@ -5,9 +5,9 @@
 [![Devops Badge](https://img.shields.io/badge/Devops-A0522D?style=flat-square&logo=devops&logoColor=white&link=https://www.credential.net/8d8248bc-98af-4f0a-a04c-02c295da2eb2#gs.14j8ca)](https://www.credential.net/8d8248bc-98af-4f0a-a04c-02c295da2eb2#gs.14j8ca)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mauroslucios)](https://github.com/mauroslucios)
 ![Bootstrap Badge](https://img.shields.io/badge/-boostrap-0D1117?style=flat-square&logo=bootstrap&labelColor=0D1117)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)](https://jupyter.org/try)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg?style=flat-square&logo=Colab)]
-[![Anaconda](https://a11ybadges.com/badge?logo=anaconda)](https://www.anaconda.com/about-us)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?c&logo=Jupyter)](https://jupyter.org/try)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.anaconda.com/about-us)
+[![Anaconda](https://a11ybadges.com/badge?style=flat-square&logo=anaconda)](https://www.anaconda.com/about-us](https://colab.research.google.com/))
 
 ### Programming languages
 ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
