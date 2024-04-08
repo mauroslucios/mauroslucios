@@ -8,7 +8,7 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?c&logo=Jupyter)](https://jupyter.org/try)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 [![Anaconda](https://a11ybadges.com/?style=flat-square&logo=anaconda)](https://www.anaconda.com/about-us)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=Databricks&logoColor=white)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=Databricks&logoColor=white)]
 
 
 
