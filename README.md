@@ -22,16 +22,16 @@
 ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![YAML Badge](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat-square&logo=yaml&logoColor=151515)
-[![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)](https://www.json.org/json-en.html)
 [![Node version](https://img.shields.io/badge/Node%20js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
 ### Web
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![Bootstrap Badge](https://img.shields.io/badge/-boostrap-0D1117?style=flat-square&logo=bootstrap&labelColor=0D1117)](https://getbootstrap.com/)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+[![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white)](https://www.json.org/json-en.html)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=flat-square&logo=Insomnia&logoColor=white)](https://insomnia.rest/download)
-[![Insomnia](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/download)
+[![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/download)
 <!--![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)-->
 ### About me
 - I'm a IT Engineering Analyst - at itaú unibanco
