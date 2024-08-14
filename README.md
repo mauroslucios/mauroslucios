@@ -45,7 +45,7 @@
     
 ### Contact
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5524988291621)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=01579B&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-lúcio-pereira/)](https://www.linkedin.com/in/mauro-lúcio-pereira/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=01579B&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-lucio-pereira/)](https://www.linkedin.com/in/mauro-lucio-pereira/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=01579B&logo=twitter&logoColor=white&link=https://twitter.com/mauroslucios)](https://twitter.com/mauroslucios)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&labelColor=CC0000&logo=instagram&logoColor=white)](https://www.instagram.com/luciospsilva/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&labelColor=01579B&logo=facebook&logoColor=white)](https://www.facebook.com/mauroslucios)
