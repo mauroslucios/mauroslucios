@@ -37,7 +37,7 @@
 - AWS Certified 
 
 ### Job Title
-- IT Data Engeneer
+- Data Engeneer
 <!-- Git, github Actions, AWS, Python, Splunk, Open Search, Jupyter Notebook, Terraform, DMPS - FICO Decision Management Platform Streaming-->
 
 ### Skills
