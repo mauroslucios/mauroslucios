@@ -33,11 +33,11 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap Badge](https://img.shields.io/badge/-boostrap-0D1117?style=flat-square&logo=bootstrap&labelColor=0D1117)](https://getbootstrap.com/)-->
 ### About me
-- I'm a IT Engineering Analyst - at itaú unibanco
+- I'm a Data engeneer - at itaú unibanco
 - AWS Certified 
 
 ### Job Title
-- IT Engineering Analyst
+- IT Data Engeneer
 <!-- Git, github Actions, AWS, Python, Splunk, Open Search, Jupyter Notebook, Terraform, DMPS - FICO Decision Management Platform Streaming-->
 
 ### Skills
